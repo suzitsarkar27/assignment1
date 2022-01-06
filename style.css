@@ -1,0 +1,166 @@
+.section-part1 {
+  display: flex;
+}
+
+.size-part {
+  width: 50%;
+  padding-left: 50px;
+  font-size: 20px;
+}
+.border-part {
+  border-left: 4px solid orangered;
+  padding-left: 10px;
+}
+
+.border-part h1 {
+  font-weight: 700;
+}
+
+.images-size img {
+  width: 50%;
+  padding-left: 30%;
+}
+.color-part {
+  color: tomato;
+}
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(green, rgb(98, 255, 0));
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.size-p {
+  padding-top: 20px;
+}
+.color-part1 {
+  text-align: center;
+  font-size: 35px;
+  color: #fa983a;
+  border-radius: 10px;
+}
+.size-part1 {
+  font-size: 20px;
+}
+.size-part1 p {
+  color: black;
+}
+.section-part2 {
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+.size-part1 {
+  display: flex;
+}
+
+.images-size1 {
+  width: 30%;
+  background-color: orange;
+  margin-left: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+.images-size1 img {
+  max-width: 100%;
+}
+
+.images-size2 {
+  width: 30%;
+  background-color: #fad390;
+  margin-left: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.images-size2 img {
+  max-width: 100%;
+}
+
+.images-size3 {
+  width: 30%;
+  background-color: #f6b93b;
+  margin-left: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.images-size3 img {
+  max-width: 100%;
+}
+
+.images-size5 {
+  padding-left: 120px;
+}
+
+.images-size5 img {
+  width: 60%;
+}
+.section-part3 {
+  display: flex;
+  padding-top: 100px;
+}
+.size-part2 {
+  width: 50%;
+  padding-right: 100px;
+  font-size: 20px;
+}
+
+.button1 {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: peru;
+  border-radius: 5px;
+  color: whitesmoke;
+}
+.section-part3 {
+  background-image: url(images/illustrators/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.size-part3 {
+  width: 50%;
+  padding-left: 100px;
+  font-size: 20px;
+}
+.button2 {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: salmon;
+  border-radius: 5px;
+  color: aliceblue;
+}
+.images-size6 img {
+  width: 50%;
+  margin-left: 100px;
+}
+
+.size-part4 {
+  font-size: 25px;
+}
+.section-part4 {
+  display: flex;
+  padding-top: 100px;
+}
+
+.images-size6 img {
+  width: 50%;
+}
+.size-part4 {
+  width: 50%;
+}
+
+.section-part5 {
+  display: flex;
+  margin-top: 40px;
+}
+
+footer {
+  background-color: #2c3e50;
+  text-align: center;
+  color: aliceblue;
+  padding: 20px;
+  font-style: italic;
+}
+#footer-color {
+  color: darkorange;
+}
