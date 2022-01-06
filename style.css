@@ -22,21 +22,27 @@
 }
 .color-part {
   color: tomato;
+  font-style: italic;
+  text-shadow: 1px 1px darkorange;
 }
 .button {
   text-decoration: none;
   background-image: linear-gradient(green, rgb(98, 255, 0));
   padding: 10px 30px;
   border-radius: 5px;
+  color: azure;
 }
 .size-p {
   padding-top: 20px;
 }
 .color-part1 {
   text-align: center;
-  font-size: 35px;
+  font-size: 40px;
   color: #fa983a;
   border-radius: 10px;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 2px 2px gold;
 }
 .size-part1 {
   font-size: 20px;
@@ -58,6 +64,7 @@
   margin-left: 20px;
   border-radius: 10px;
   text-align: center;
+  padding: 10px;
 }
 .images-size1 img {
   max-width: 100%;
@@ -69,6 +76,7 @@
   margin-left: 20px;
   border-radius: 10px;
   text-align: center;
+  padding: 20px;
 }
 
 .images-size2 img {
@@ -81,6 +89,7 @@
   margin-left: 20px;
   text-align: center;
   border-radius: 10px;
+  padding: 20px;
 }
 
 .images-size3 img {
